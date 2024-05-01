@@ -1,42 +1,105 @@
----
-title: markmap
-markmap:
-  colorFreezeLevel: 2
----
 
-## Links
+## IDEAS TO MINDMAP FOR PRODUCTIVITY
 
-- [Website](https://markmap.js.org/)
-- [GitHub](https://github.com/gera2ld/markmap)
+## DRAFTING
 
-## Related Projects
+### CLAUSE A
+#### OPENING STATEMENT
+##### WH ABOUT THE LETTER 
+- [x] WHAT IS THE SoP ABOUT
+- [x] WHAT IS YOUR INTEREST
+- [x] WHY THIS SCHOOL AND HOW YOU VE FOUND THIS IS SCHOOL
+- 
+### CLAUSE B
+#### REASON & LOGIC THROUGH EVIDENCE GATHERING: STUDY GRAD PROGRAM 
+- [x] WHAT WILL YOU DO AFTER GOING THERE
+- [x] HOW YOUR SKILLS HELP YOU IN THE PROGRAM IN THE BASE LEVEL
+- [x] WHAT POSSIBLY WILL YOU DO AFTER GRAD
+- [x] HOW YOU WILL SEE YOURSELF IN FUTURE IN SOCIETY 
+- [x] How the program description and course curriculum indicates that it's suitable for you
+- [x] How the knowledge and experience of Supervisor or faculty will help you to reach a successful goal or milestone
+- [x] How the reputation & degree & alumni will help you in your career, professionalism, & enrich you
 
-- [coc-markmap](https://github.com/gera2ld/coc-markmap) for Neovim
-- [markmap-vscode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) for VSCode
-- [eaf-markmap](https://github.com/emacs-eaf/eaf-markmap) for Emacs
+### CLAUSE C
+#### BRIEF YOUR ACADEMIC INTEGRITY 
+- "WHY DO YOU THINK THAT YOU ARE RIGHT STUD FOR THE PROGRAM", starts with this question
+- MENTION WHAT YOU GOOD AT ACADEMICALLY
+- MENTIONE WHAT YOU GOOD AT COCURRICULAR ACTIVITIES
+- MENTION ANY AWARDS, ACHIEVEMENT, PROJECT, THESIS, OR EVENT THAT IS GOVEN BY YOUR SCHOOL
+- MENTION HOW YOUR ACADEMIC SKILLS HELP YOU IN YOUR CAREER BOTH PAST AND PRESENT 
+- THE MORE IS MERE IN THIS CLAUSE
 
-## Features
+### CLAUSE D
+#### LET'S CURL YOUR RESUME OR CV 
+- LET'S TALK ABOUT YOUR RESUME AND CONTRIBUTION BOTH PAID OR VOLUNTEERING
+- CONNECT YOUR CONTRIBUTION, ACHIEVEMENT AND SKILLS WITH THE SUPERVISORS OR SCHOOL'S REQUIREMENT
+- CONNECT WITH GREAT RESPONSIBILITY
+- 
+### CLAUSE E
+#### IMPACT YOUR PRESENCE IN THE SOCIETY IF YOU COMPLETE THE PROGRAM 
+- Your current and past contribution in society or social aspects or arts related faculty
+- Explore resilient or gender discrimination or economic or offer program related contribution 
+ - List with light brief about the project or program related to project and what experience you have received and achieved 
+ - Please, tell about the current economic condition of the region to exhibit your standing and integrity
+ - List top 5 skills ( hard and soft ) of yours till now and it helps you in advance 
 
-Note that if blocks and lists appear at the same level, the lists will be ignored.
+### CLAUSE F
+#### Language understanding
+- ACADEMICALLY
+- PROFESSIONALISM
+- SOCIALLY
+- IN EMERGENCY SITUATION
+- IN NETWORKING
 
-### Lists
+### CLAUSE G
+#### YOUR contact info
+- Your current address
+- Your availability
+- Time to reach you by school's time zones  
 
-- **strong** ~~del~~ *italic* ==highlight==
-- `inline code`
-- [x] checkbox
-- Katex: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ <!-- markmap: fold -->
-  - [More Katex Examples](#?d=gist:af76a4c245b302206b16aec503dbe07b:katex.md)
-- Now we can wrap very very very very long text based on `maxWidth` option
+### CLAUSE H
+WITHOUT THANK YOU A SoP WORTH A LITTLE
 
-### Blocks
+### CLOSURE
+SHOW YOUR SIGNATURE HERE WHICH INDICATES WHAT YOU ARE 
 
-```js
-console.log('hello, JavaScript')
-```
+## EDIT STUDIO
+### GRAMMAR AND SPELL CHECKING 
+### PLAGIARISM CHECKING 
+### ALIGNMENT CHECKING 
+### WRITING STYLE CHECKING
 
-| Products | Price |
-|-|-|
-| Apple | 4 |
-| Banana | 2 |
+## EDITORIAL
+### OPINION CHECKING
+### EVIDENCE CHECKING
+### SKILLS EXIST
+### AUDIO CHECKING AND PRONUNCIATION
+### SUBJECTIVE
+### OBJECTIVE
+### GOES WELL WITH THE SUPERVISOR OR SCHOOL PREREQUISITE
 
-| Orange 
+## PUBLISHERS DISTRICT
+
+### SPONSORED BY THE TERMS OF APPLICANT'S INTEREST
+
+### FIRST PASS
+#### SKIM THROUGH THE PAPER 
+##### SPECIFIC LEGAL
+##### VIOLATION TERMS
+##### MISUSE OR MISCONDUCT
+##### PROPAGANDA
+##### FALSE ALERT
+
+### SECOND PASS:
+#### CROSS CHECK THE REFERENCE AND EVIDENCE
+#### IS IT SUFFICIENT FOR THE READER
+#### CATEGORY OF STUDENT AND HIS/HER SKILLS EXTRACTION FROM THE TEXTS
+#### GENERATIVE AND SEO RELATED CONTENT OR NOT OR DEEPFAKE USAGE REPORT
+
+### THIRD PASS:
+#### READ WHILE THE AUDIO ON AS INTERACTIVE MODE
+#### UNDERSTANDING THE INTEREST
+
+### SUBMIT TO WHOM IT MAY CONCERN
+#### MENTIONED NAME AND CONTACT INFO
+#### TRACKING ID 
